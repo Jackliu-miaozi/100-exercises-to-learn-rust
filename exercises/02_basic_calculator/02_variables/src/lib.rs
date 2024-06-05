@@ -11,6 +11,8 @@ pub fn speed(start: u32, end: u32, time_elapsed: u32) -> u32 {
 
     // Don't change the line below
     distance / time_elapsed
+
+    
 }
 
 #[cfg(test)]
